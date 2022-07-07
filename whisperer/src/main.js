@@ -18,3 +18,6 @@ library.add(
 )
 
 Vue.component('fa', FontAwesomeIcon)
+// ここまで追加
+
+//略
